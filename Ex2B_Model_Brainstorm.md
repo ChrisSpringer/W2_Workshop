@@ -38,3 +38,6 @@ b) Owner: owner_id(PK), owner_name, phone_number, email
 c) The entities with relationships are Owner to Dog, Dog to Walk, and Owner to Payment.
 
 d) Upon revision, we accounted for any many-to-many relationships and there are none.
+
+#Notes
+a) Our models turned out to be the same. The only difference between them was the placement of the tables, but the contents and relationships were all constant for all members.
