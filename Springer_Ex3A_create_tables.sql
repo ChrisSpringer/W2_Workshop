@@ -5,7 +5,6 @@ USE lana_dog_walking;
 CREATE TABLE Owner (
     owner_id INT PRIMARY KEY,
     owner_name VARCHAR(100) NOT NULL,
-    pet_name VARCHAR(100) NOT NULL,
     phone_number VARCHAR(20),
     email VARCHAR(255)
 );
